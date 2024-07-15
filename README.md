@@ -10,6 +10,7 @@ your clipboard as well.
 <img width="691" alt="Screenshot 2024-07-15 at 5 38 44 PM" src="https://github.com/user-attachments/assets/8bce356e-3e4c-4ec5-a647-11e914308ca0">
 
 ## UI
+<img width="835" alt="Screenshot 2024-07-15 at 5 36 25 PM" src="https://github.com/user-attachments/assets/bf4dd832-386b-4714-9782-93785e54a5f0">
 
 ## Picking color
 
