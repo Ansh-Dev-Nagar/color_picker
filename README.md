@@ -8,6 +8,7 @@ your clipboard as well.
 
 ## Extension
 <img width="691" alt="Screenshot 2024-07-15 at 5 38 44 PM" src="https://github.com/user-attachments/assets/8bce356e-3e4c-4ec5-a647-11e914308ca0">
+
 ## UI
 
 ## Picking color
